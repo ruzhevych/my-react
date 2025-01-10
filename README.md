@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 
 ```aiignore
+npm i
+npm run dev
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
